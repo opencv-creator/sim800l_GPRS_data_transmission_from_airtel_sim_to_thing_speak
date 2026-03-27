@@ -1,7 +1,7 @@
 # sim800l_GPRS_data_transmission_from_airtel_sim_to_thing_speak
 sim800l_GPRS_data_transmission_from_airtel_sim_to_thing_speak
 
-all credits goes to hackster.io website, with their help i have created this code.links for the hackster.io is mentioned below
+all credits goes to hackster.io website, with their help i have created this code. Links for the hackster.io is mentioned below
 https://www.hackster.io/vinayyn/arduino-to-thingspeak-via-gprs-sim800-no-wi-fi-0098fd
 
 
