@@ -5,6 +5,6 @@ all credits goes to hackster.io website, with their help i have created this cod
 https://www.hackster.io/vinayyn/arduino-to-thingspeak-via-gprs-sim800-no-wi-fi-0098fd
 
 
-This projet works with Arduino uno and sim800l with Indian Airtel Sim card (2G GPRS network). 
+This project works with Arduino uno and sim800l with Indian Airtel Sim card (2G GPRS network). 
 
 you have to edit the API_KEY present at the beginneing of the code with the API key which u get from thingspeak website.
